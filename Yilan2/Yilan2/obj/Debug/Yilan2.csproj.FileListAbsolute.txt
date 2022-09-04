@@ -1,0 +1,13 @@
+C:\Users\MONSTER\Desktop\Form Örnekleri c#\Yilan2\Yilan2\bin\Debug\Yilan2.exe.config
+C:\Users\MONSTER\Desktop\Form Örnekleri c#\Yilan2\Yilan2\bin\Debug\Yilan2.exe
+C:\Users\MONSTER\Desktop\Form Örnekleri c#\Yilan2\Yilan2\bin\Debug\Yilan2.pdb
+C:\Users\MONSTER\Desktop\Form Örnekleri c#\Yilan2\Yilan2\obj\Debug\Yilan2.csproj.AssemblyReference.cache
+C:\Users\MONSTER\Desktop\Form Örnekleri c#\Yilan2\Yilan2\obj\Debug\Yilan2.csproj.SuggestedBindingRedirects.cache
+C:\Users\MONSTER\Desktop\Form Örnekleri c#\Yilan2\Yilan2\obj\Debug\Yilan2.frm_yilanoyunu.resources
+C:\Users\MONSTER\Desktop\Form Örnekleri c#\Yilan2\Yilan2\obj\Debug\Yilan2.Properties.Resources.resources
+C:\Users\MONSTER\Desktop\Form Örnekleri c#\Yilan2\Yilan2\obj\Debug\Yilan2.csproj.GenerateResource.cache
+C:\Users\MONSTER\Desktop\Form Örnekleri c#\Yilan2\Yilan2\obj\Debug\Yilan2.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\Desktop\Form Örnekleri c#\Yilan2\Yilan2\obj\Debug\Yilan2.exe
+C:\Users\MONSTER\Desktop\Form Örnekleri c#\Yilan2\Yilan2\obj\Debug\Yilan2.pdb
+C:\Users\MONSTER\Desktop\Form Örnekleri c#\Yilan2\Yilan2\obj\Debug\Yilan2.frm_snake.resources
+C:\Users\MONSTER\Desktop\Form Örnekleri c#\Yilan2\Yilan2\obj\Debug\Yilan2.frm_snakegame.resources
